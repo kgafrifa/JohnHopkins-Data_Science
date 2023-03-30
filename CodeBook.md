@@ -7,10 +7,10 @@ Data course.
 Source Data
 Data + Description can be found here UCI Machine Learning Repository
 
-==================================================================
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-==================================================================
+
 
 Data Set Information
 
